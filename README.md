@@ -30,8 +30,6 @@ This capstone project explores what makes a Pokémon competitively viable in the
 - **Similarity Search:** scikit-learn NearestNeighbors
 
 ## Repo Structure
-- notebooks/
-  - A Machine Learning Approach to Competitive Viability in Pokémon VGC
 - data/
   - Pokemon Database
   - evolutions
@@ -39,6 +37,8 @@ This capstone project explores what makes a Pokémon competitively viable in the
 - images/
   - charizard
   - type_chart
+- notebooks/
+  - A Machine Learning Approach to Competitive Viability in Pokémon VGC
 - README.md
 
 
