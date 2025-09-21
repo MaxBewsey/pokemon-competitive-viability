@@ -16,9 +16,9 @@ This capstone project explores what makes a Pokémon competitively viable in the
   - Neural network classifier built in PyTorch
   - Probability of Worlds success based on traits
 - Interactive Viability Rater:
-  - Adjust stats with sliders (live BST counter)
+  - Adjust stats with sliders
   - Select typings and abilities
-  - Visualise results on radar plots
+  - Visualise results on radar plot
   - Compare to similar Pokémon
 
 ## Methods & Tools
