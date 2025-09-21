@@ -1,5 +1,7 @@
 # A Machine Learning Approach to Competitive Viability in Pokémon VGC
 
+*Completion Date: 21/09/2025*
+
 ## Overview
 This capstone project explores what makes a Pokémon competitively viable in the official Video Game Championships (VGC) format. Using features such as base stats, typings, and abilities, I built a predictive neural network and an interactive tool that estimates viability for both existing and hypothetical Pokémon.
 
