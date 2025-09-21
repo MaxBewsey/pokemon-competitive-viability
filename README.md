@@ -19,15 +19,15 @@ This capstone project explores what makes a Pokémon competitively viable in the
   - Adjust stats with sliders
   - Select typings and abilities
   - Visualise results on radar plot
-  - Compare to similar Pokémon
+  - Compare to similar Pokémon using Nearest Neighbour logic.
 
 ## Methods & Tools
 - **Data Engineering & Cleaning:** pandas, numpy, dataset merging, feature engineering  
-- **Visualisation:** matplotlib, seaborn, radar charts, heatmaps, bar plots  
-- **Clustering & Dimensionality Reduction:** PCA, K-Means  
-- **Modelling:** PyTorch neural network classifier  
-- **UI Development:** ipywidgets, Matplotlib  
-- **Similarity Search:** scikit-learn NearestNeighbors  
+- **Visualisation:** matplotlib, seaborn, radar charts, heatmaps, bar plots, box plots, lollipop plots  
+- **Clustering & Dimensionality Reduction:** PCA, K-Means
+- **Modelling:** PyTorch neural network classifier
+- **UI Development:** ipywidgets
+- **Similarity Search:** scikit-learn NearestNeighbors
 
 ## Repo Structure
 - notebooks/
