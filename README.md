@@ -59,4 +59,4 @@ The data for this project was obtained through a combination of open source Kagg
 - charizard usage data - https://www.pikalytics.com/pokedex/gen9vgc2025regi/charizard
 
 
-*Note: The UI is not visible on the GitHub preview. To access, the notebook (and datasets) must be downloaded and run.*
+*Note: The Viability Rater UI is not visible on the GitHub preview. To access, the notebook (and datasets) must be downloaded and run.*
