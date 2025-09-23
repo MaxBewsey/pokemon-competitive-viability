@@ -50,7 +50,10 @@ This capstone project explores what makes a Pokémon competitively viable in the
 
 
 ## Data
-The data for this project was obtained through a combination of open source Kaggle datasets, and manually collected data.
+The data for this project was obtained through a combination of open source Kaggle datasets, websites, and manually collected data. All are linked below.
 - Pokemon Database - Kaggle - https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
 - evolutions - Kaggle - https://www.kaggle.com/datasets/hamzacyberpatcher/data-of-1010-pokemons
 - VGC World Championship Winners - Manual
+- type_chart image - https://pokemondb.net/type
+- charizard image - https://pokemondb.net/pokedex/charizard
+- charizard usage data - https://www.pikalytics.com/pokedex/gen9vgc2025regi/charizard
