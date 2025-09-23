@@ -31,18 +31,6 @@ This capstone project explores what makes a Pokémon competitively viable in the
 - **UI Development:** ipywidgets
 - **Similarity Search:** scikit-learn NearestNeighbors
 
-## Repo Structure
-- data/
-  - Pokemon Database
-  - evolutions
-  - VGC World Championship Winners
-- images/
-  - charizard
-  - type_chart
-- notebooks/
-  - A Machine Learning Approach to Competitive Viability in Pokémon VGC
-- README.md
-
 
 ## Results
 - Confirmed that **stats, typings, and abilities alone are highly predictive** of competitive viability at the World Championship level.  
