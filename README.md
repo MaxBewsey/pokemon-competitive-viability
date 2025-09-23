@@ -47,3 +47,10 @@ This capstone project explores what makes a Pokémon competitively viable in the
   - Generates predicted probability of success for existing or hypothetical Pokémon.  
   - Visualises design with radar plots and typing/ability displays.  
   - Compares designs to their five most similar real Pokémon.  
+
+
+## Data
+The data for this project was obtained through a combination of open source Kaggle datasets, and manually collected data.
+- Pokemon Database - Kaggle - https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
+- evolutions - Kaggle - https://www.kaggle.com/datasets/hamzacyberpatcher/data-of-1010-pokemons
+- VGC World Championship Winners - Manual
