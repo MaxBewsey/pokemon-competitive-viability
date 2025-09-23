@@ -57,3 +57,6 @@ The data for this project was obtained through a combination of open source Kagg
 - type_chart image - https://pokemondb.net/type
 - charizard image - https://pokemondb.net/pokedex/charizard
 - charizard usage data - https://www.pikalytics.com/pokedex/gen9vgc2025regi/charizard
+
+
+*Note: The UI is not visible on the GitHub preview. To access, the notebook (and datasets) must be downloaded and run.*
