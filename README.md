@@ -22,6 +22,7 @@ This capstone project explores what makes a Pokémon competitively viable in the
   - Select typings and abilities
   - Visualise results on radar plot
   - Compare to similar Pokémon using Nearest Neighbour logic.
+
 *Note: The Viability Rater UI is not visible on the GitHub preview. To access, the notebook (and datasets) must be downloaded and run.*
 
 
